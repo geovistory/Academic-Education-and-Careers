@@ -85,3 +85,10 @@ WHERE {
      <http://purl.org/dc/terms/bibliographicCitation> ?biblio} 
 }
 ```
+
+## To go further
+
+Données ouvertes liées et recherche historique : un changement de paradigme. Beretta, F. Humanités numériques, July, 2023. Number: 7 Publisher: Humanistica <https://doi.org/10.4000/revuehn.3349>
+
+Francesco Beretta. Semantic Data for Humanities and Social Sciences (SDHSS): an Ecosystem of CIDOC CRM Extensions for Research Data Production and Reuse. Thomas Riechert; Hartmut Beyer; Jennifer Blanke; Edgard Marx. Professorale Karrieremuster Reloaded. Entwicklung einer wissenschaftlichen Methode zur Forschung auf online verfügbaren und verteilten Forschungsdaten- banken der Universitätsgeschichte., HTWK Leipzig / OA-HVerlag, pp.73-102, 2024 <https://shs.hal.science/halshs-04450546>
+
