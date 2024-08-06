@@ -7,14 +7,17 @@ Digital Humanities Conference, Washington, 06.08.2024
 Geovistory website: <https://www.geovistory.org/>
 Registering: <https://toolbox.geovistory.org/login>
 
-## Slides
+## Introduction Slides
 
 <https://docs.google.com/presentation/d/1ZW165b91vAQzIBy1junsE_VXxNr5n4cyGbEsa3RvYGY/edit?usp=sharing>
 
-## Working document
+## Hands-on
 
-Link to the Google Doc:
-https://docs.google.com/document/d/1KeCX1yzNFHhkmeKTdPvqOtIfRYKjUEhOE6RJRcCz3VM/edit?usp=sharing
+List of persons to add:
+<https://docs.google.com/document/d/1KeCX1yzNFHhkmeKTdPvqOtIfRYKjUEhOE6RJRcCz3VM/edit?usp=sharing>
+
+Step by step slides:
+<https://docs.google.com/presentation/d/1zBfhKs6E-sXKtIo2K9qvh0HxTEGPvAt5B03N67HI_RU/edit>
 
 ## SPARQL queries:
 
