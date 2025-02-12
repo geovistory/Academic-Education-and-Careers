@@ -7,10 +7,13 @@ This page is dedicated to the Geovistory Workshop of the Graph Conference 2025 i
 ## Useful links
 
 Geovistory: https://www.geovistory.org/
+
 Community project: https://www.geovistory.org/project/1483135
 
 Introduction: https://docs.google.com/presentation/d/1H2KmfPSqQAsanbpOfjibYstW_HVHtcZtH8Zjj0Boqn8/edit?usp=sharing
+
 LOD 101: https://docs.google.com/presentation/d/1Rs-dq79Ap8stMlLkd0RymPiVZ4BrkjF5-y5N3LIOZeg/edit?usp=sharing
+
 Hands-on: https://docs.google.com/presentation/d/15Tr-fC1T5EawtYiM5Nxx6SgrKnpSQMMEw-Nn8AGjXVc/edit?usp=sharing
 
 ## SPARQL queries
